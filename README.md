@@ -1,7 +1,7 @@
 # Data Insight – Projeto de Iniciação Científica
 
 **Aluno:** Bruno Silva Moraes
-**Coordenadores:** Leandro Marochio Fernandes, Rafael Silva Guimarães
+**Coordenadores:** Rafael Silva Guimarães, Leandro Marochio Fernandes
 
 **Data Insight** é uma ferramenta de web scraping desenvolvida para automatizar a extração e formatação de dados de perfis na plataforma Lattes. O projeto visa aplicar técnicas avançadas de análise e visualização de dados, utilizando ferramentas open-source, para avaliar de forma sistemática o desempenho dos projetos desenvolvidos no IFES Campus Cachoeiro de Itapemirim. Com base em indicadores chave de desempenho, busca-se identificar pontos fortes e áreas de melhoria, promovendo a evolução contínua dos projetos.
 
