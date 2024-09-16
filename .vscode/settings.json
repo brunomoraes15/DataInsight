@@ -1,0 +1,9 @@
+{
+    "window.density.editorTabHeight": "compact",
+    "workbench.editor.highlightModifiedTabs": false,
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
